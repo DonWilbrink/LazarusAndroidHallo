@@ -1,0 +1,3 @@
+<Libraries Value="C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\platforms\android-22\arch-x86\usr\lib;C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\toolchains\x86-4.9\prebuilt\windows-x86_64\lib\gcc\x86-linux-android\4.9.x"/>
+<TargetCPU Value="i386"/>
+<CustomOptions Value="-Xd -XPi686-linux-android- -FDC:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository\AndroidNDK-21-21.0.40680.4203\android-ndk-r21\toolchains\x86-4.9\prebuilt\windows-x86_64\bin"/>

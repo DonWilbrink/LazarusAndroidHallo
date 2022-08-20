@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:61
+-keep class org.lamw.hallolazand.App { <init>(...); }
+
